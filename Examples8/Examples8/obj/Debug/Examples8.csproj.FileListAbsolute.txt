@@ -1,0 +1,10 @@
+C:\Users\Mahdi Gh\source\repos\Examples8\Examples8\bin\Debug\Examples8.exe.config
+C:\Users\Mahdi Gh\source\repos\Examples8\Examples8\bin\Debug\Examples8.exe
+C:\Users\Mahdi Gh\source\repos\Examples8\Examples8\bin\Debug\Examples8.pdb
+C:\Users\Mahdi Gh\source\repos\Examples8\Examples8\obj\Debug\Examples8.csprojAssemblyReference.cache
+C:\Users\Mahdi Gh\source\repos\Examples8\Examples8\obj\Debug\Examples8.Form1.resources
+C:\Users\Mahdi Gh\source\repos\Examples8\Examples8\obj\Debug\Examples8.Properties.Resources.resources
+C:\Users\Mahdi Gh\source\repos\Examples8\Examples8\obj\Debug\Examples8.csproj.GenerateResource.cache
+C:\Users\Mahdi Gh\source\repos\Examples8\Examples8\obj\Debug\Examples8.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi Gh\source\repos\Examples8\Examples8\obj\Debug\Examples8.exe
+C:\Users\Mahdi Gh\source\repos\Examples8\Examples8\obj\Debug\Examples8.pdb
